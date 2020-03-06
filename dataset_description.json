@@ -8,7 +8,7 @@
         "Stefano Anzellotti",
         "Liane Young"
     ],
-    "Funding": "This work was supported by the John Templeton Foundation and the National Science Foundation",
+    "Funding": ["This work was supported by the John Templeton Foundation and the National Science Foundation"],
     "ReferencesAndLinks": [],
     "Acknowledgments": "The authors thank Minjae Kim, Ryan McManus, BoKyung Park, Justin Martin, Gordon Kraft-Todd, Kevin Jiang, and other members of the Boston College Morality Lab for their helpful feedback. ",
     "DatasetDOI": "10.18112/openneuro.ds002250.v1.0.0"
